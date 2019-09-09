@@ -1,0 +1,28 @@
+ body {
+    
+     font-size: 0.8rem !important;
+     background-color: #f8f8f8 !important;
+    
+ }
+ 
+
+
+
+ .ant-list-pagination {
+    text-align: center  !important;
+  }
+
+ .markdown-body{
+  height: 100% !important;
+ }
+
+ button{
+    background-color:#dddddd ;
+    border: none;
+    font-size: 0.8rem;
+  }
+
+ button:focus{
+     border: none;
+     outline: none !important;
+ }
